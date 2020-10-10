@@ -14,7 +14,7 @@
 
 mas bold_jacamo {
 
-    agent controller {
+    agent ts1 {
           goals: start
           join: building3
           focus: building3.ldfu_spider
