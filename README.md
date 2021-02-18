@@ -1,4 +1,4 @@
-# AI4Industry: JaCaMo starter project
+# BOLD JaCaMo starter project
 
 This project is a template to start your own [JaCaMo](https://github.com/jacamo-lang/jacamo) project using Gradle.
 
